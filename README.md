@@ -1,6 +1,6 @@
 # himawari-dl
 
-[![Star](https://img.shields.io/github/stars/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/himawari-dl/stargazers) [![License](https://img.shields.io/github/license/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/ph-locations/blob/main/LICENSE) [![Release](https://img.shields.io/github/release/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/himawari-dl/releases)
+[![Star](https://img.shields.io/github/stars/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/himawari-dl/stargazers) [![License](https://img.shields.io/github/license/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/himawari-dl/blob/main/LICENSE) [![Release](https://img.shields.io/github/release/ej-agas/himawari-dl.svg?style=flat-square)](https://github.com/ej-agas/himawari-dl/releases)
 
 CLI application that downloads Himawari-8/Himawari-9 satellite images from [Meteorological Satellite Center of JMA](https://www.data.jma.go.jp/mscweb/en/index.html).
 
